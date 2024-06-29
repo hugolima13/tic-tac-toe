@@ -1,7 +1,7 @@
 # Jogo da Velha 
 
 ## Descrição
-O Jogo da Velha Interativo é um projeto web que recria o clássico jogo da velha, onde dois jogadores se alternam para marcar seus símbolos (X e O) em um grid 3x3, com o objetivo de alinhar três símbolos em uma linha, coluna ou diagonal.
+Esse é um projeto web que recria o clássico jogo da velha, onde dois jogadores se alternam para marcar seus símbolos (X e O) em um grid 3x3, com o objetivo de alinhar três símbolos em uma linha, coluna ou diagonal.
 
 ## Funcionalidades
 - Interface intuitiva e responsiva.
